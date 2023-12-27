@@ -5,9 +5,7 @@ replacement for `ls` and `tree`.
 
 ## Installation
 
-Install [`eza`](https://the.eza.website). See
-[eza installation](https://the.eza.website/#installation) for platform specific
-installation instructions.
+Install [`eza`](https://eza.rocks/).
 
 Next, download this repo into your custom plugins directory. For my installation
 using [Oh My Zsh](https://ohmyz.sh/), Clone the repo to
