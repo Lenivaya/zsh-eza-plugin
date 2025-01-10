@@ -5,8 +5,8 @@ fi
 
 export TIME_STYLE="${TIME_STYLE:-long-iso}"
 
-alias eza='eza --icons=auto --group-directories-first --header'
-alias ls='eza --git --group-directories-first'
+alias eza='eza --icons=auto --group-directories-first --header --hyperlink'
+alias ls='eza --git --group-directories-first --header --hyperlink'
 alias l='ls -blF'
 alias ll='ls -al'
 alias llm='ll --sort=modified'
